@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **aryamanmaithani/aryamanmaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Aryaman Maithani.  
+I don't know what to put here.  
+[Here](https://aryamanmaithani.github.io) is my website.  
+Maybe that's more helpful.
