@@ -23,3 +23,5 @@ Maybe that's more helpful.
 Here's some stats with some numbers that don't really mean much.
 
 <img src="https://github-readme-stats.vercel.app/api?username=aryamanmaithani&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>
+
+(In case the "total commits" above don't match the one shown below, it's because of private contributions.)
