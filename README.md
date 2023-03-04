@@ -26,4 +26,4 @@ Here's some stats with some numbers that don't really mean much.
 
 (In case the "total commits" above don't match the one shown below, it's because of private contributions.)
 
-For a more aesthetic visualisation, check [this](https://skyline.github.com/aryamanmaithani/2020) out.
+For a more aesthetic visualisation, check [this](https://skyline.github.com/aryamanmaithani/2023) out.
